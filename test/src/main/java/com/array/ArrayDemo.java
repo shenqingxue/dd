@@ -15,6 +15,7 @@ public class ArrayDemo {
         }
         for (int i = 0; i < newin.length; i++) {
             System.out.println(newin[i]);
+            System.out.println(newin[i]);
         }
 
         //源码add程序
